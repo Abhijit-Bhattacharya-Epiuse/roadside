@@ -149,10 +149,10 @@
             "enabled": false
         },
         "nativeOTA": {
-            "enabled": true
+            "enabled": false
         }
     },
-    "appVersion": "1.0.863",
-    "buildNumber": 863,
+    "appVersion": "1.0.865",
+    "buildNumber": 865,
     "runtimeUrl": "https://Roadside-qa.cfapps.us10.hana.ondemand.com"
 }
